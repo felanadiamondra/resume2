@@ -12,7 +12,7 @@
 /build
 
 # video
-*.mp4
+/*.mp3
 
 # misc
 .DS_Store
