@@ -39,7 +39,6 @@ const Bio = (props) => {
                 <img className="z-50 w-24 h-24 md:h-auto" src="/image/image.png" alt="Felana Diamondra RANDRIAMADISON"/>
                 <div className=''>
                     <blockquote>
-                    
                         <div className="text-center mt-8">
                             <div className="flex">
                               

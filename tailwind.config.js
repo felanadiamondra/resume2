@@ -7,18 +7,14 @@ module.exports = {
     extend: {
       colors :{
         navy_blue: '#461D50',
+        navy2_blue : '#2E5994',
         dark_blue: '#2B1F65',
+        dark2_blue: '#2F79B0',
         blue_picton: '#32B4E1',
-        // g_rose : '#F24772',
-        // g_purple : '#CC4C8F',
-        g_rose : ' #B35B62',
+        g_rose : '#B35B62',
         g_purple : '#8D3B7C',
-
-        // g_purple : '#9B4772',
-        // g_rose : '#B35B62',
-        // g_purple : '#964375',
-       
-
+        gd_rose : '#8a3b41',
+        gd_purple : '#69255a',
       },
       boxShadow :{
         't-l' : '-5px -5px 5px rgba(0, 0, 0, 0.3)',

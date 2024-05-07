@@ -61,7 +61,9 @@ function Project() {
             {
               tagStackProject.map((stack, idx) => (
                 random = Math.floor(Math.random() * 3),
-                <span key={idx} class={`bg-${colorStack[random]}-100 bg-opacity-40 text-${colorStack[random]}-800 text-xs font-medium me-2 my-1 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-indigo-400 border border-${colorStack[random]}-400`}>{stack}</span>
+                console.log(random),
+                // <span key={idx} class={`bg-${colorStack[random]}-100 bg-opacity-40 text-${colorStack[random]}-800 text-xs font-medium me-2 my-1 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-indigo-400 border border-${colorStack[random]}-400`}>{stack}</span>
+                <span key={idx} class={`bg-pink-100 bg-opacity-40 text-pink-800 text-xs font-medium me-2 my-1 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-indigo-400 border border-pink-400`}>{stack}</span>
               ))
             }
           </div>
