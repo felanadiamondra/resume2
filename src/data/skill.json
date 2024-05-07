@@ -1,0 +1,28 @@
+{
+    "languages" : [
+        "Python",
+        "C#",
+        "Java"
+    ],
+    "framework" : [
+        "Symfony",
+        "ReactJS",
+        "VueJS",
+        "Flask",
+        ".NET"
+    ],
+    "mobile" : [
+        "Flutter"
+    ],
+    "databases" : [
+        "Mysql",
+        "Oracle",
+        "MongoDB",
+        "PostgreSQL",
+        "Vector Database (Milvus)"
+    ],
+    "tools": [
+        "Git",
+        "UI & UX (Figma)"
+    ]
+}
