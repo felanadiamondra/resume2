@@ -4,6 +4,7 @@ import coding from '../images/fcode.png';
 import lcoding from '../images/code.gif';
 import mobile from '../images/mobile.gif';
 import database from '../images/database.gif';
+import database from '../images/tool.gif';
 
 
 const Skill = () => {
